@@ -34,10 +34,10 @@ mkdir -p %{buildroot}%{_datadir}
 cp -a texmf-dist %{buildroot}%{_datadir}
 
 %files
-%doc %{_texmfdistdir}/texmf-dist/source/latex/checklistings
-%{_texmfdistdir}/texmf-dist/tex/latex/checklistings
-%{_texmfdistdir}/texmf-dist/scripts/checklistings
-%doc %{_texmfdistdir}/texmf-dist/doc/latex/checklistings
+%doc %{_texmfdistdir}/source/latex/checklistings
+%{_texmfdistdir}/tex/latex/checklistings
+%{_texmfdistdir}/scripts/checklistings
+%doc %{_texmfdistdir}/doc/latex/checklistings
 
 %post -p %{_sbindir}/texlive.post
 
