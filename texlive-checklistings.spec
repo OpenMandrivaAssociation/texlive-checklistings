@@ -1,6 +1,6 @@
 Name:		texlive-checklistings
 Version:	38300
-Release:	1
+Release:	2
 Summary:	Pass verbatim contents through a compiler and reincorporate the resulting output
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/checklistings
