@@ -3,7 +3,7 @@ Version:	38300
 Release:	2
 Summary:	Pass verbatim contents through a compiler and reincorporate the resulting output
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/checklistings
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/checklistings
 License:	lppl1.2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/checklistings.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/checklistings.doc.r%{version}.tar.xz
